@@ -22,3 +22,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 # Belajar bikin branch baru
 **tralalalalalalalala**
+* pepa dan pepi
+* aku dan kamu
+* iya betul
