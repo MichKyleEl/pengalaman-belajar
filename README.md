@@ -21,4 +21,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 
 # Belajar bikin branch baru
-**tralalalalalalalala**
+Belajar mengatasi merge conflict. (Progress 71%)
+* Gwencana Gwencanayo
